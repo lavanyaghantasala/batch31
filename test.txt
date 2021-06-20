@@ -1,2 +1,5 @@
 sample text
 Sample text 2
+THIS TO check the diff b/w stagging and commit
+echo 3
+
